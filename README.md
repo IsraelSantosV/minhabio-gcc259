@@ -2,6 +2,8 @@
 
 #### Atividade para a disciplina de Desenvolvimento de Software Livre
 
+![Image](codeImage.jpeg)
+
 Nome: Israel Santos Vieira
 
 Informações Profissionais:
